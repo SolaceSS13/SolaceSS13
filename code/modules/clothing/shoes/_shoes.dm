@@ -25,6 +25,8 @@
 	///An active alert
 	var/datum/weakref/our_alert_ref
 	var/footprint_sprite = FOOTPRINT_SPRITE_SHOES
+	///Whether the shoes are resistant to the caltrop effect of roots around Solace
+	/// var/root_safe = FALSE
 
 /datum/armor/clothing_shoes
 	bio = 50
