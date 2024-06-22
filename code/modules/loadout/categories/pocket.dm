@@ -43,6 +43,42 @@
 
 	return ..()
 
+/datum/loadout_item/pocket_items/pride_flag_rainbow
+	name = "Pride Flag - Rainbow"
+	item_path = /obj/item/sign/flag/pride_flag/rainbow
+
+/datum/loadout_item/pocket_items/pride_flag_ace
+	name = "Pride Flag - Ace"
+	item_path = /obj/item/sign/flag/pride_flag/ace
+
+/datum/loadout_item/pocket_items/pride_flag_bi
+	name = "Pride Flag - Bi"
+	item_path = /obj/item/sign/flag/pride_flag/bi
+
+/datum/loadout_item/pocket_items/pride_flag_enby
+	name = "Pride Flag - Enby"
+	item_path = /obj/item/sign/flag/pride_flag/enby
+
+/datum/loadout_item/pocket_items/pride_flag_intersex
+	name = "Pride Flag - Intersex"
+	item_path = /obj/item/sign/flag/pride_flag/intersex
+
+/datum/loadout_item/pocket_items/pride_flag_lesbian
+	name = "Pride Flag - Lesbian"
+	item_path = /obj/item/sign/flag/pride_flag/lesbian
+
+/datum/loadout_item/pocket_items/pride_flag_mlm
+	name = "Pride Flag - MLM"
+	item_path = /obj/item/sign/flag/pride_flag/mlm
+
+/datum/loadout_item/pocket_items/pride_flag_pan
+	name = "Pride Flag - Pan"
+	item_path = /obj/item/sign/flag/pride_flag/pan
+
+/datum/loadout_item/pocket_items/pride_flag_trans
+	name = "Pride Flag - Trans"
+	item_path = /obj/item/sign/flag/pride_flag/trans
+
 /datum/loadout_item/pocket_items/lipstick_black
 	name = "Lipstick (Black)"
 	item_path = /obj/item/lipstick/black
@@ -53,12 +89,10 @@
 	item_path = /obj/item/lipstick/blue
 	additional_displayed_text = list("Blue")
 
-
 /datum/loadout_item/pocket_items/lipstick_green
 	name = "Lipstick (Green)"
 	item_path = /obj/item/lipstick/green
 	additional_displayed_text = list("Green")
-
 
 /datum/loadout_item/pocket_items/lipstick_jade
 	name = "Lipstick (Jade)"

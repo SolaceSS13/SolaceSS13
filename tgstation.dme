@@ -2291,6 +2291,7 @@
 #include "code\game\objects\items\etherealdiscoball.dm"
 #include "code\game\objects\items\extinguisher.dm"
 #include "code\game\objects\items\fireaxe.dm"
+#include "code\game\objects\items\flags.dm"
 #include "code\game\objects\items\flamethrower.dm"
 #include "code\game\objects\items\frog_statue.dm"
 #include "code\game\objects\items\gift.dm"
